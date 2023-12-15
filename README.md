@@ -13,7 +13,7 @@ We utilize a range of automated tools, including Mythril, Slither, and Solhint, 
 ### Manual Security Tests
 Our auditors conduct line-by-line reviews, employ SWC-Registry, analyze overflows, check Common Vulnerabilities and Exposures (CVE) to ensure a meticulous examination of your smart contract's security.
 
-## Audit Presentation
+## Audit Report
 
 ### Manual Security Review
 We conduct manual reviews covering various aspects, including Trading Constraints, Taxes, and Owner Permissions, to address nuanced vulnerabilities.
