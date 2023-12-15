@@ -34,7 +34,10 @@ Our expertise extends to auditing smart contracts on various blockchains, includ
 Solidrate is dedicated to providing the highest level of service, building lasting partnerships based on trust and mutual success. Contact us today to learn more about how we can help secure and enhance your smart contract projects.
 
 hello@solidrate.io
+
 https://www.solidrate.io
+
 https://t.me/solidrate
+
 https://twitter.com/solidrate
 
